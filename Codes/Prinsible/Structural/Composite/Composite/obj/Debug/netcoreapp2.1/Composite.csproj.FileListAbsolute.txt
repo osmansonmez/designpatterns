@@ -1,0 +1,11 @@
+D:\Eğitim\Design Patterns\Codes\Prinsible\Structural\Composite\Composite\obj\Debug\netcoreapp2.1\Composite.csprojAssemblyReference.cache
+D:\Eğitim\Design Patterns\Codes\Prinsible\Structural\Composite\Composite\obj\Debug\netcoreapp2.1\Composite.csproj.CoreCompileInputs.cache
+D:\Eğitim\Design Patterns\Codes\Prinsible\Structural\Composite\Composite\obj\Debug\netcoreapp2.1\Composite.AssemblyInfoInputs.cache
+D:\Eğitim\Design Patterns\Codes\Prinsible\Structural\Composite\Composite\obj\Debug\netcoreapp2.1\Composite.AssemblyInfo.cs
+D:\Eğitim\Design Patterns\Codes\Prinsible\Structural\Composite\Composite\bin\Debug\netcoreapp2.1\Composite.deps.json
+D:\Eğitim\Design Patterns\Codes\Prinsible\Structural\Composite\Composite\bin\Debug\netcoreapp2.1\Composite.runtimeconfig.json
+D:\Eğitim\Design Patterns\Codes\Prinsible\Structural\Composite\Composite\bin\Debug\netcoreapp2.1\Composite.runtimeconfig.dev.json
+D:\Eğitim\Design Patterns\Codes\Prinsible\Structural\Composite\Composite\bin\Debug\netcoreapp2.1\Composite.dll
+D:\Eğitim\Design Patterns\Codes\Prinsible\Structural\Composite\Composite\bin\Debug\netcoreapp2.1\Composite.pdb
+D:\Eğitim\Design Patterns\Codes\Prinsible\Structural\Composite\Composite\obj\Debug\netcoreapp2.1\Composite.dll
+D:\Eğitim\Design Patterns\Codes\Prinsible\Structural\Composite\Composite\obj\Debug\netcoreapp2.1\Composite.pdb

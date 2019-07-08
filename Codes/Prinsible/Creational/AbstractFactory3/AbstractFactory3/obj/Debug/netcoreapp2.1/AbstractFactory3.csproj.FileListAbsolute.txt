@@ -1,0 +1,11 @@
+D:\Eğitim\Design Patterns\Codes\Prinsible\Creational\AbstractFactory3\AbstractFactory3\bin\Debug\netcoreapp2.1\AbstractFactory3.deps.json
+D:\Eğitim\Design Patterns\Codes\Prinsible\Creational\AbstractFactory3\AbstractFactory3\bin\Debug\netcoreapp2.1\AbstractFactory3.runtimeconfig.json
+D:\Eğitim\Design Patterns\Codes\Prinsible\Creational\AbstractFactory3\AbstractFactory3\bin\Debug\netcoreapp2.1\AbstractFactory3.runtimeconfig.dev.json
+D:\Eğitim\Design Patterns\Codes\Prinsible\Creational\AbstractFactory3\AbstractFactory3\bin\Debug\netcoreapp2.1\AbstractFactory3.dll
+D:\Eğitim\Design Patterns\Codes\Prinsible\Creational\AbstractFactory3\AbstractFactory3\bin\Debug\netcoreapp2.1\AbstractFactory3.pdb
+D:\Eğitim\Design Patterns\Codes\Prinsible\Creational\AbstractFactory3\AbstractFactory3\obj\Debug\netcoreapp2.1\AbstractFactory3.csprojAssemblyReference.cache
+D:\Eğitim\Design Patterns\Codes\Prinsible\Creational\AbstractFactory3\AbstractFactory3\obj\Debug\netcoreapp2.1\AbstractFactory3.csproj.CoreCompileInputs.cache
+D:\Eğitim\Design Patterns\Codes\Prinsible\Creational\AbstractFactory3\AbstractFactory3\obj\Debug\netcoreapp2.1\AbstractFactory3.AssemblyInfoInputs.cache
+D:\Eğitim\Design Patterns\Codes\Prinsible\Creational\AbstractFactory3\AbstractFactory3\obj\Debug\netcoreapp2.1\AbstractFactory3.AssemblyInfo.cs
+D:\Eğitim\Design Patterns\Codes\Prinsible\Creational\AbstractFactory3\AbstractFactory3\obj\Debug\netcoreapp2.1\AbstractFactory3.dll
+D:\Eğitim\Design Patterns\Codes\Prinsible\Creational\AbstractFactory3\AbstractFactory3\obj\Debug\netcoreapp2.1\AbstractFactory3.pdb

@@ -1,0 +1,11 @@
+D:\Eğitim\Design Patterns\Codes\Prinsible\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\netcoreapp2.1\InterfaceSegregationPrinciple.deps.json
+D:\Eğitim\Design Patterns\Codes\Prinsible\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\netcoreapp2.1\InterfaceSegregationPrinciple.runtimeconfig.json
+D:\Eğitim\Design Patterns\Codes\Prinsible\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\netcoreapp2.1\InterfaceSegregationPrinciple.runtimeconfig.dev.json
+D:\Eğitim\Design Patterns\Codes\Prinsible\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\netcoreapp2.1\InterfaceSegregationPrinciple.dll
+D:\Eğitim\Design Patterns\Codes\Prinsible\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\netcoreapp2.1\InterfaceSegregationPrinciple.pdb
+D:\Eğitim\Design Patterns\Codes\Prinsible\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\netcoreapp2.1\InterfaceSegregationPrinciple.csprojAssemblyReference.cache
+D:\Eğitim\Design Patterns\Codes\Prinsible\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\netcoreapp2.1\InterfaceSegregationPrinciple.csproj.CoreCompileInputs.cache
+D:\Eğitim\Design Patterns\Codes\Prinsible\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\netcoreapp2.1\InterfaceSegregationPrinciple.AssemblyInfoInputs.cache
+D:\Eğitim\Design Patterns\Codes\Prinsible\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\netcoreapp2.1\InterfaceSegregationPrinciple.AssemblyInfo.cs
+D:\Eğitim\Design Patterns\Codes\Prinsible\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\netcoreapp2.1\InterfaceSegregationPrinciple.dll
+D:\Eğitim\Design Patterns\Codes\Prinsible\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\netcoreapp2.1\InterfaceSegregationPrinciple.pdb

@@ -1,0 +1,11 @@
+C:\Users\EOS\source\repos\Abstractfactory\Abstractfactory\bin\Debug\netcoreapp2.1\Abstractfactory.deps.json
+C:\Users\EOS\source\repos\Abstractfactory\Abstractfactory\bin\Debug\netcoreapp2.1\Abstractfactory.runtimeconfig.json
+C:\Users\EOS\source\repos\Abstractfactory\Abstractfactory\bin\Debug\netcoreapp2.1\Abstractfactory.runtimeconfig.dev.json
+C:\Users\EOS\source\repos\Abstractfactory\Abstractfactory\bin\Debug\netcoreapp2.1\Abstractfactory.dll
+C:\Users\EOS\source\repos\Abstractfactory\Abstractfactory\bin\Debug\netcoreapp2.1\Abstractfactory.pdb
+C:\Users\EOS\source\repos\Abstractfactory\Abstractfactory\obj\Debug\netcoreapp2.1\Abstractfactory.csprojAssemblyReference.cache
+C:\Users\EOS\source\repos\Abstractfactory\Abstractfactory\obj\Debug\netcoreapp2.1\Abstractfactory.csproj.CoreCompileInputs.cache
+C:\Users\EOS\source\repos\Abstractfactory\Abstractfactory\obj\Debug\netcoreapp2.1\Abstractfactory.AssemblyInfoInputs.cache
+C:\Users\EOS\source\repos\Abstractfactory\Abstractfactory\obj\Debug\netcoreapp2.1\Abstractfactory.AssemblyInfo.cs
+C:\Users\EOS\source\repos\Abstractfactory\Abstractfactory\obj\Debug\netcoreapp2.1\Abstractfactory.dll
+C:\Users\EOS\source\repos\Abstractfactory\Abstractfactory\obj\Debug\netcoreapp2.1\Abstractfactory.pdb

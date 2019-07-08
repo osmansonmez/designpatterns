@@ -1,0 +1,11 @@
+D:\Eğitim\Design Patterns\Codes\Prinsible\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp2.1\FactoryPattern.deps.json
+D:\Eğitim\Design Patterns\Codes\Prinsible\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp2.1\FactoryPattern.runtimeconfig.json
+D:\Eğitim\Design Patterns\Codes\Prinsible\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp2.1\FactoryPattern.runtimeconfig.dev.json
+D:\Eğitim\Design Patterns\Codes\Prinsible\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp2.1\FactoryPattern.dll
+D:\Eğitim\Design Patterns\Codes\Prinsible\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp2.1\FactoryPattern.pdb
+D:\Eğitim\Design Patterns\Codes\Prinsible\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp2.1\FactoryPattern.csprojAssemblyReference.cache
+D:\Eğitim\Design Patterns\Codes\Prinsible\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp2.1\FactoryPattern.csproj.CoreCompileInputs.cache
+D:\Eğitim\Design Patterns\Codes\Prinsible\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp2.1\FactoryPattern.AssemblyInfoInputs.cache
+D:\Eğitim\Design Patterns\Codes\Prinsible\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp2.1\FactoryPattern.AssemblyInfo.cs
+D:\Eğitim\Design Patterns\Codes\Prinsible\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp2.1\FactoryPattern.dll
+D:\Eğitim\Design Patterns\Codes\Prinsible\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp2.1\FactoryPattern.pdb

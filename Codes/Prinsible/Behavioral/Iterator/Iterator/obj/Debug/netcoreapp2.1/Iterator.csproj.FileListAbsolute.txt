@@ -1,0 +1,11 @@
+D:\Eğitim\Design Patterns\Codes\Prinsible\Behavioral\Iterator\Iterator\bin\Debug\netcoreapp2.1\Iterator.deps.json
+D:\Eğitim\Design Patterns\Codes\Prinsible\Behavioral\Iterator\Iterator\bin\Debug\netcoreapp2.1\Iterator.runtimeconfig.json
+D:\Eğitim\Design Patterns\Codes\Prinsible\Behavioral\Iterator\Iterator\bin\Debug\netcoreapp2.1\Iterator.runtimeconfig.dev.json
+D:\Eğitim\Design Patterns\Codes\Prinsible\Behavioral\Iterator\Iterator\bin\Debug\netcoreapp2.1\Iterator.dll
+D:\Eğitim\Design Patterns\Codes\Prinsible\Behavioral\Iterator\Iterator\bin\Debug\netcoreapp2.1\Iterator.pdb
+D:\Eğitim\Design Patterns\Codes\Prinsible\Behavioral\Iterator\Iterator\obj\Debug\netcoreapp2.1\Iterator.csprojAssemblyReference.cache
+D:\Eğitim\Design Patterns\Codes\Prinsible\Behavioral\Iterator\Iterator\obj\Debug\netcoreapp2.1\Iterator.csproj.CoreCompileInputs.cache
+D:\Eğitim\Design Patterns\Codes\Prinsible\Behavioral\Iterator\Iterator\obj\Debug\netcoreapp2.1\Iterator.AssemblyInfoInputs.cache
+D:\Eğitim\Design Patterns\Codes\Prinsible\Behavioral\Iterator\Iterator\obj\Debug\netcoreapp2.1\Iterator.AssemblyInfo.cs
+D:\Eğitim\Design Patterns\Codes\Prinsible\Behavioral\Iterator\Iterator\obj\Debug\netcoreapp2.1\Iterator.dll
+D:\Eğitim\Design Patterns\Codes\Prinsible\Behavioral\Iterator\Iterator\obj\Debug\netcoreapp2.1\Iterator.pdb

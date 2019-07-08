@@ -1,0 +1,10 @@
+D:\Eğitim\Design Patterns\Codes\Prinsible\liskov\liskov\bin\Debug\netcoreapp2.1\liskov.deps.json
+D:\Eğitim\Design Patterns\Codes\Prinsible\liskov\liskov\bin\Debug\netcoreapp2.1\liskov.runtimeconfig.json
+D:\Eğitim\Design Patterns\Codes\Prinsible\liskov\liskov\bin\Debug\netcoreapp2.1\liskov.runtimeconfig.dev.json
+D:\Eğitim\Design Patterns\Codes\Prinsible\liskov\liskov\bin\Debug\netcoreapp2.1\liskov.dll
+D:\Eğitim\Design Patterns\Codes\Prinsible\liskov\liskov\bin\Debug\netcoreapp2.1\liskov.pdb
+D:\Eğitim\Design Patterns\Codes\Prinsible\liskov\liskov\obj\Debug\netcoreapp2.1\liskov.csproj.CoreCompileInputs.cache
+D:\Eğitim\Design Patterns\Codes\Prinsible\liskov\liskov\obj\Debug\netcoreapp2.1\liskov.AssemblyInfoInputs.cache
+D:\Eğitim\Design Patterns\Codes\Prinsible\liskov\liskov\obj\Debug\netcoreapp2.1\liskov.AssemblyInfo.cs
+D:\Eğitim\Design Patterns\Codes\Prinsible\liskov\liskov\obj\Debug\netcoreapp2.1\liskov.dll
+D:\Eğitim\Design Patterns\Codes\Prinsible\liskov\liskov\obj\Debug\netcoreapp2.1\liskov.pdb

@@ -1,0 +1,11 @@
+D:\Eğitim\Design Patterns\Codes\Prinsible\Creational\Singleton\Singleton\bin\Debug\netcoreapp2.1\Singleton.deps.json
+D:\Eğitim\Design Patterns\Codes\Prinsible\Creational\Singleton\Singleton\bin\Debug\netcoreapp2.1\Singleton.runtimeconfig.json
+D:\Eğitim\Design Patterns\Codes\Prinsible\Creational\Singleton\Singleton\bin\Debug\netcoreapp2.1\Singleton.runtimeconfig.dev.json
+D:\Eğitim\Design Patterns\Codes\Prinsible\Creational\Singleton\Singleton\bin\Debug\netcoreapp2.1\Singleton.dll
+D:\Eğitim\Design Patterns\Codes\Prinsible\Creational\Singleton\Singleton\bin\Debug\netcoreapp2.1\Singleton.pdb
+D:\Eğitim\Design Patterns\Codes\Prinsible\Creational\Singleton\Singleton\obj\Debug\netcoreapp2.1\Singleton.csprojAssemblyReference.cache
+D:\Eğitim\Design Patterns\Codes\Prinsible\Creational\Singleton\Singleton\obj\Debug\netcoreapp2.1\Singleton.csproj.CoreCompileInputs.cache
+D:\Eğitim\Design Patterns\Codes\Prinsible\Creational\Singleton\Singleton\obj\Debug\netcoreapp2.1\Singleton.AssemblyInfoInputs.cache
+D:\Eğitim\Design Patterns\Codes\Prinsible\Creational\Singleton\Singleton\obj\Debug\netcoreapp2.1\Singleton.AssemblyInfo.cs
+D:\Eğitim\Design Patterns\Codes\Prinsible\Creational\Singleton\Singleton\obj\Debug\netcoreapp2.1\Singleton.dll
+D:\Eğitim\Design Patterns\Codes\Prinsible\Creational\Singleton\Singleton\obj\Debug\netcoreapp2.1\Singleton.pdb
