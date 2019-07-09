@@ -1,0 +1,22 @@
+D:\Eğitim\Design Patterns\Codes\Prinsible\Behavioral\Observer\Observer\bin\Debug\netcoreapp2.1\Observer.deps.json
+D:\Eğitim\Design Patterns\Codes\Prinsible\Behavioral\Observer\Observer\bin\Debug\netcoreapp2.1\Observer.runtimeconfig.json
+D:\Eğitim\Design Patterns\Codes\Prinsible\Behavioral\Observer\Observer\bin\Debug\netcoreapp2.1\Observer.runtimeconfig.dev.json
+D:\Eğitim\Design Patterns\Codes\Prinsible\Behavioral\Observer\Observer\bin\Debug\netcoreapp2.1\Observer.dll
+D:\Eğitim\Design Patterns\Codes\Prinsible\Behavioral\Observer\Observer\bin\Debug\netcoreapp2.1\Observer.pdb
+D:\Eğitim\Design Patterns\Codes\Prinsible\Behavioral\Observer\Observer\obj\Debug\netcoreapp2.1\Observer.csprojAssemblyReference.cache
+D:\Eğitim\Design Patterns\Codes\Prinsible\Behavioral\Observer\Observer\obj\Debug\netcoreapp2.1\Observer.csproj.CoreCompileInputs.cache
+D:\Eğitim\Design Patterns\Codes\Prinsible\Behavioral\Observer\Observer\obj\Debug\netcoreapp2.1\Observer.AssemblyInfoInputs.cache
+D:\Eğitim\Design Patterns\Codes\Prinsible\Behavioral\Observer\Observer\obj\Debug\netcoreapp2.1\Observer.AssemblyInfo.cs
+D:\Eğitim\Design Patterns\Codes\Prinsible\Behavioral\Observer\Observer\obj\Debug\netcoreapp2.1\Observer.dll
+D:\Eğitim\Design Patterns\Codes\Prinsible\Behavioral\Observer\Observer\obj\Debug\netcoreapp2.1\Observer.pdb
+D:\Eğitim\designpatterns\Codes\Prinsible\Behavioral\Observer\Observer\bin\Debug\netcoreapp2.1\Observer.deps.json
+D:\Eğitim\designpatterns\Codes\Prinsible\Behavioral\Observer\Observer\bin\Debug\netcoreapp2.1\Observer.runtimeconfig.json
+D:\Eğitim\designpatterns\Codes\Prinsible\Behavioral\Observer\Observer\bin\Debug\netcoreapp2.1\Observer.runtimeconfig.dev.json
+D:\Eğitim\designpatterns\Codes\Prinsible\Behavioral\Observer\Observer\bin\Debug\netcoreapp2.1\Observer.dll
+D:\Eğitim\designpatterns\Codes\Prinsible\Behavioral\Observer\Observer\bin\Debug\netcoreapp2.1\Observer.pdb
+D:\Eğitim\designpatterns\Codes\Prinsible\Behavioral\Observer\Observer\obj\Debug\netcoreapp2.1\Observer.csprojAssemblyReference.cache
+D:\Eğitim\designpatterns\Codes\Prinsible\Behavioral\Observer\Observer\obj\Debug\netcoreapp2.1\Observer.csproj.CoreCompileInputs.cache
+D:\Eğitim\designpatterns\Codes\Prinsible\Behavioral\Observer\Observer\obj\Debug\netcoreapp2.1\Observer.AssemblyInfoInputs.cache
+D:\Eğitim\designpatterns\Codes\Prinsible\Behavioral\Observer\Observer\obj\Debug\netcoreapp2.1\Observer.AssemblyInfo.cs
+D:\Eğitim\designpatterns\Codes\Prinsible\Behavioral\Observer\Observer\obj\Debug\netcoreapp2.1\Observer.dll
+D:\Eğitim\designpatterns\Codes\Prinsible\Behavioral\Observer\Observer\obj\Debug\netcoreapp2.1\Observer.pdb

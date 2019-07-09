@@ -1,0 +1,11 @@
+D:\Eğitim\designpatterns\Codes\Prinsible\Behavioral\CommandPatternSample1\CommandPatternSample1\bin\Debug\netcoreapp2.1\CommandPatternSample1.deps.json
+D:\Eğitim\designpatterns\Codes\Prinsible\Behavioral\CommandPatternSample1\CommandPatternSample1\bin\Debug\netcoreapp2.1\CommandPatternSample1.runtimeconfig.json
+D:\Eğitim\designpatterns\Codes\Prinsible\Behavioral\CommandPatternSample1\CommandPatternSample1\bin\Debug\netcoreapp2.1\CommandPatternSample1.runtimeconfig.dev.json
+D:\Eğitim\designpatterns\Codes\Prinsible\Behavioral\CommandPatternSample1\CommandPatternSample1\bin\Debug\netcoreapp2.1\CommandPatternSample1.dll
+D:\Eğitim\designpatterns\Codes\Prinsible\Behavioral\CommandPatternSample1\CommandPatternSample1\bin\Debug\netcoreapp2.1\CommandPatternSample1.pdb
+D:\Eğitim\designpatterns\Codes\Prinsible\Behavioral\CommandPatternSample1\CommandPatternSample1\obj\Debug\netcoreapp2.1\CommandPatternSample1.csprojAssemblyReference.cache
+D:\Eğitim\designpatterns\Codes\Prinsible\Behavioral\CommandPatternSample1\CommandPatternSample1\obj\Debug\netcoreapp2.1\CommandPatternSample1.csproj.CoreCompileInputs.cache
+D:\Eğitim\designpatterns\Codes\Prinsible\Behavioral\CommandPatternSample1\CommandPatternSample1\obj\Debug\netcoreapp2.1\CommandPatternSample1.AssemblyInfoInputs.cache
+D:\Eğitim\designpatterns\Codes\Prinsible\Behavioral\CommandPatternSample1\CommandPatternSample1\obj\Debug\netcoreapp2.1\CommandPatternSample1.AssemblyInfo.cs
+D:\Eğitim\designpatterns\Codes\Prinsible\Behavioral\CommandPatternSample1\CommandPatternSample1\obj\Debug\netcoreapp2.1\CommandPatternSample1.dll
+D:\Eğitim\designpatterns\Codes\Prinsible\Behavioral\CommandPatternSample1\CommandPatternSample1\obj\Debug\netcoreapp2.1\CommandPatternSample1.pdb

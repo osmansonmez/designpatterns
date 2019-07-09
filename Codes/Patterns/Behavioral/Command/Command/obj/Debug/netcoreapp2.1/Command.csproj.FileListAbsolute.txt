@@ -1,0 +1,22 @@
+D:\Eğitim\Design Patterns\Codes\Prinsible\Behavioral\Command\Command\bin\Debug\netcoreapp2.1\Command.deps.json
+D:\Eğitim\Design Patterns\Codes\Prinsible\Behavioral\Command\Command\bin\Debug\netcoreapp2.1\Command.runtimeconfig.json
+D:\Eğitim\Design Patterns\Codes\Prinsible\Behavioral\Command\Command\bin\Debug\netcoreapp2.1\Command.runtimeconfig.dev.json
+D:\Eğitim\Design Patterns\Codes\Prinsible\Behavioral\Command\Command\bin\Debug\netcoreapp2.1\Command.dll
+D:\Eğitim\Design Patterns\Codes\Prinsible\Behavioral\Command\Command\bin\Debug\netcoreapp2.1\Command.pdb
+D:\Eğitim\Design Patterns\Codes\Prinsible\Behavioral\Command\Command\obj\Debug\netcoreapp2.1\Command.csprojAssemblyReference.cache
+D:\Eğitim\Design Patterns\Codes\Prinsible\Behavioral\Command\Command\obj\Debug\netcoreapp2.1\Command.csproj.CoreCompileInputs.cache
+D:\Eğitim\Design Patterns\Codes\Prinsible\Behavioral\Command\Command\obj\Debug\netcoreapp2.1\Command.AssemblyInfoInputs.cache
+D:\Eğitim\Design Patterns\Codes\Prinsible\Behavioral\Command\Command\obj\Debug\netcoreapp2.1\Command.AssemblyInfo.cs
+D:\Eğitim\Design Patterns\Codes\Prinsible\Behavioral\Command\Command\obj\Debug\netcoreapp2.1\Command.dll
+D:\Eğitim\Design Patterns\Codes\Prinsible\Behavioral\Command\Command\obj\Debug\netcoreapp2.1\Command.pdb
+D:\Eğitim\designpatterns\Codes\Prinsible\Behavioral\Command\Command\bin\Debug\netcoreapp2.1\Command.deps.json
+D:\Eğitim\designpatterns\Codes\Prinsible\Behavioral\Command\Command\bin\Debug\netcoreapp2.1\Command.runtimeconfig.json
+D:\Eğitim\designpatterns\Codes\Prinsible\Behavioral\Command\Command\bin\Debug\netcoreapp2.1\Command.runtimeconfig.dev.json
+D:\Eğitim\designpatterns\Codes\Prinsible\Behavioral\Command\Command\bin\Debug\netcoreapp2.1\Command.dll
+D:\Eğitim\designpatterns\Codes\Prinsible\Behavioral\Command\Command\bin\Debug\netcoreapp2.1\Command.pdb
+D:\Eğitim\designpatterns\Codes\Prinsible\Behavioral\Command\Command\obj\Debug\netcoreapp2.1\Command.csprojAssemblyReference.cache
+D:\Eğitim\designpatterns\Codes\Prinsible\Behavioral\Command\Command\obj\Debug\netcoreapp2.1\Command.csproj.CoreCompileInputs.cache
+D:\Eğitim\designpatterns\Codes\Prinsible\Behavioral\Command\Command\obj\Debug\netcoreapp2.1\Command.AssemblyInfoInputs.cache
+D:\Eğitim\designpatterns\Codes\Prinsible\Behavioral\Command\Command\obj\Debug\netcoreapp2.1\Command.AssemblyInfo.cs
+D:\Eğitim\designpatterns\Codes\Prinsible\Behavioral\Command\Command\obj\Debug\netcoreapp2.1\Command.dll
+D:\Eğitim\designpatterns\Codes\Prinsible\Behavioral\Command\Command\obj\Debug\netcoreapp2.1\Command.pdb

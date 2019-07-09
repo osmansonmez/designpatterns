@@ -1,0 +1,11 @@
+D:\Eğitim\designpatterns\BuilderPattern\BuilderPattern\obj\Debug\netcoreapp2.1\BuilderPattern.csprojAssemblyReference.cache
+D:\Eğitim\designpatterns\BuilderPattern\BuilderPattern\obj\Debug\netcoreapp2.1\BuilderPattern.csproj.CoreCompileInputs.cache
+D:\Eğitim\designpatterns\BuilderPattern\BuilderPattern\obj\Debug\netcoreapp2.1\BuilderPattern.AssemblyInfoInputs.cache
+D:\Eğitim\designpatterns\BuilderPattern\BuilderPattern\obj\Debug\netcoreapp2.1\BuilderPattern.AssemblyInfo.cs
+D:\Eğitim\designpatterns\BuilderPattern\BuilderPattern\bin\Debug\netcoreapp2.1\BuilderPattern.deps.json
+D:\Eğitim\designpatterns\BuilderPattern\BuilderPattern\bin\Debug\netcoreapp2.1\BuilderPattern.runtimeconfig.json
+D:\Eğitim\designpatterns\BuilderPattern\BuilderPattern\bin\Debug\netcoreapp2.1\BuilderPattern.runtimeconfig.dev.json
+D:\Eğitim\designpatterns\BuilderPattern\BuilderPattern\bin\Debug\netcoreapp2.1\BuilderPattern.dll
+D:\Eğitim\designpatterns\BuilderPattern\BuilderPattern\bin\Debug\netcoreapp2.1\BuilderPattern.pdb
+D:\Eğitim\designpatterns\BuilderPattern\BuilderPattern\obj\Debug\netcoreapp2.1\BuilderPattern.dll
+D:\Eğitim\designpatterns\BuilderPattern\BuilderPattern\obj\Debug\netcoreapp2.1\BuilderPattern.pdb

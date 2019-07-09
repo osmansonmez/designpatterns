@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "ChainofResponsibility2/1.0.0": {
+        "runtime": {
+          "ChainofResponsibility2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChainofResponsibility2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

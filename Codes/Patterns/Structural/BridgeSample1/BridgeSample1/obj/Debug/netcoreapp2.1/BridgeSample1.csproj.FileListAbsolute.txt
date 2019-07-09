@@ -1,0 +1,11 @@
+D:\Eğitim\designpatterns\Codes\Prinsible\Behavioral\BridgeSample1\BridgeSample1\bin\Debug\netcoreapp2.1\BridgeSample1.deps.json
+D:\Eğitim\designpatterns\Codes\Prinsible\Behavioral\BridgeSample1\BridgeSample1\bin\Debug\netcoreapp2.1\BridgeSample1.runtimeconfig.json
+D:\Eğitim\designpatterns\Codes\Prinsible\Behavioral\BridgeSample1\BridgeSample1\bin\Debug\netcoreapp2.1\BridgeSample1.runtimeconfig.dev.json
+D:\Eğitim\designpatterns\Codes\Prinsible\Behavioral\BridgeSample1\BridgeSample1\bin\Debug\netcoreapp2.1\BridgeSample1.dll
+D:\Eğitim\designpatterns\Codes\Prinsible\Behavioral\BridgeSample1\BridgeSample1\bin\Debug\netcoreapp2.1\BridgeSample1.pdb
+D:\Eğitim\designpatterns\Codes\Prinsible\Behavioral\BridgeSample1\BridgeSample1\obj\Debug\netcoreapp2.1\BridgeSample1.csprojAssemblyReference.cache
+D:\Eğitim\designpatterns\Codes\Prinsible\Behavioral\BridgeSample1\BridgeSample1\obj\Debug\netcoreapp2.1\BridgeSample1.csproj.CoreCompileInputs.cache
+D:\Eğitim\designpatterns\Codes\Prinsible\Behavioral\BridgeSample1\BridgeSample1\obj\Debug\netcoreapp2.1\BridgeSample1.AssemblyInfoInputs.cache
+D:\Eğitim\designpatterns\Codes\Prinsible\Behavioral\BridgeSample1\BridgeSample1\obj\Debug\netcoreapp2.1\BridgeSample1.AssemblyInfo.cs
+D:\Eğitim\designpatterns\Codes\Prinsible\Behavioral\BridgeSample1\BridgeSample1\obj\Debug\netcoreapp2.1\BridgeSample1.dll
+D:\Eğitim\designpatterns\Codes\Prinsible\Behavioral\BridgeSample1\BridgeSample1\obj\Debug\netcoreapp2.1\BridgeSample1.pdb
